@@ -18,6 +18,7 @@ module.exports = withPWA({
       '127.0.0.1:8000',
       'maps.googleapis.com',
       'goodbeen.com',
+      'google.com',
       's3.amazonaws.com',
       'drive.google.com',
       'bapixel-cloud.oss-us-east-1.aliyuncs.com',
