@@ -19,6 +19,7 @@ module.exports = withPWA({
       'maps.googleapis.com',
       'goodbeen.com',
       's3.amazonaws.com',
+      'drive.google.com',
       'bapixel-cloud.oss-us-east-1.aliyuncs.com',
       'pixarlaravel.s3.ap-southeast-1.amazonaws.com',
     ],
